@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DhanyalA
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning HTML, CSS % JavaScript
+- 🌱 I’m currently learning HTML, CSS & JavaScript
 - 📫 dhanyala22@gmail.com
 
 <!---
